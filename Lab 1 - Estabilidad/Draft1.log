@@ -1,0 +1,6 @@
+LTspice 24.1.8 for Windows
+Circuit: C:\Users\stari\Documents\Lab1-Circuitos\Draft1.net
+Start Time: Sun May  4 19:59:04 2025
+C:\Users\stari\Documents\Lab1-Circuitos\741.lib(21): Insufficient number of node pairs.
+egnd 99  0 poly(2),(3,0),(4,0) 0 .5 .5
+                  ^^^^^^^^^^^^^^^^^^^^
